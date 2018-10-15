@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="academic">
+        <item>计科院</item>
+        <item>机电院</item>
+        <item>材料院</item>
+        <item>化工院</item>
+        <item>石工院</item>
+        <item>艺术院</item>
+        <item>马院</item>
+        <item>外语院</item>
+        <item>体院</item>
+        <item>地科院</item>
+        <item>理学院</item>
+    </array>
+</resources>
